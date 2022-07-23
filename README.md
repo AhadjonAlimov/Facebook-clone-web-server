@@ -27,4 +27,4 @@ To run this project follow next steps:
 
 1. `npm install` in server and client folders;
 2. You need configure your Keys which in .env file;
-3. `npm run dev` to server and `npm start` to client folder;
+3. `npm run dev` in server and `npm start` in client folders;
